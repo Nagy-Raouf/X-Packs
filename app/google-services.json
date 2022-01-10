@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11192010361",
+    "firebase_url": "https://x-packs-default-rtdb.firebaseio.com",
+    "project_id": "x-packs",
+    "storage_bucket": "x-packs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11192010361:android:ea204e526ce7c9d36e76a8",
+        "android_client_info": {
+          "package_name": "com.example.x_packs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11192010361-ocqsc7m8sp8hrig9e15u08c320bs8li6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.x_packs",
+            "certificate_hash": "cb28829785eb031b345d7c9d0b0241cc6a9e758c"
+          }
+        },
+        {
+          "client_id": "11192010361-ffh6t5co7kfp6ddb7nt9t9n8q6in611b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT33yjGZ99mmlq9fQd4aCd6_UJ0UTHU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11192010361-ffh6t5co7kfp6ddb7nt9t9n8q6in611b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

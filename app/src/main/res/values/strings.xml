@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">X-PACKS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="training">TRAINING</string>
+    <string name="push_up_made">PUSH-UP MADE</string>
+    <string name="push_ups_remains">PUSH-UPS REMAINS</string>
+    <string name="next_session">NEXT SESSION</string>
+    <string name="total">TOTAL</string>
+    <string name="start_training">START TRAINING</string>
+    <string name="total_push_ups">TOTAL PUSH-UPS</string>
+    <string name="total_calories">TOTAL CALORIES</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="push_ups">PUSH UPS</string>
+    <string name="abort">ABORT</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="sign_in">Lets get started</string>
+    <string name="lets_get_started">Lets get started</string>
+</resources>
